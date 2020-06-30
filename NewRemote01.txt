@@ -1,1 +1,3 @@
 This is my new file on remote
+This is the remote modification from local
+in two lines.
